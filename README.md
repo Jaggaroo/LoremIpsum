@@ -1,7 +1,16 @@
 # LoremIpsum
 Jan 20th Demo of Merge Conflict
 
+
 This needs to have proper text.
+
+You have unlimited power here. Remember where your finger's been before you scratch your nose. That blue is so strong, it'll eat up your whole world in a heartbeat. We're not too worried about it today.
+
+Start with a small amount and blend upward. Take your time and play with these things. Get a nice, even distribution of paint all through the bristles. Anything that happens here, you can work with it.
+
+You have to make an almighty decision. Follow the contour of the mountain. We all need a friend. Let the brush play and have fun -- let it go!
+
+Spicy jalapeno bacon ipsum dolor amet laboris cupidatat andouille, pariatur eiusmod veniam beef. Consequat bacon cupidatat, strip steak tail cupim andouille lorem short loin sirloin proident excepteur. Swine exercitation biltong, tail velit pig drumstick rump turducken leberkas t-bone. Jerky sint shoulder short ribs laboris. Rump excepteur meatloaf duis doner, minim laboris landjaeger chicken ground round irure pork belly tenderloin t-bone.
 
 Ea mollit ipsum, magna cow tempor pork belly bacon excepteur deserunt duis lorem capicola. Aliquip ullamco chislic sunt t-bone mollit pancetta fatback cillum laboris incididunt commodo excepteur pastrami et. Beef ribs swine adipisicing kevin, biltong ex ut dolor cow. Ut bacon quis veniam sint landjaeger andouille qui nisi buffalo. Shankle sirloin tenderloin boudin, ground round dolore est ut sunt nostrud bresaola laboris.
 
