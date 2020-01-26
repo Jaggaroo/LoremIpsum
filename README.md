@@ -1,6 +1,11 @@
 # LoremIpsum
 Jan 20th Demo of Merge Conflict
 
+It takes very little color. You know what? Let's get crazy. I lived in Alaska for many, many years. I think we'll put a happy little cloud up in the sky.
+
+That knife's a little big... let me get my small knife. I want to do something that's just a little bit different, and I think you'll find it's fun. (chuckles) Just beat the devil out of it. A very, very small amount.
+
+Get tough with it. He's like the rest of us -- he's about half crazy. This piece of canvas is your world. Gentle, swirling motions here.
 
 This now has even more proper text.
 
